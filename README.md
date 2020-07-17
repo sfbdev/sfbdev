@@ -1,15 +1,16 @@
 ### Hi there 👋
-
+💬 Ask me about Front-end
+🌱 I’m currently learning Vanilla JS, Vue JS and English
 <!--
 **sfbdev/sfbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
- 🌱 I’m currently learning Vanilla JS, Vue JS and English
+- 🌱 I’m currently learning Vanilla JS, Vue JS and English
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
- 💬 Ask me about Front-end
+- 💬 Ask me about Front-end
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
