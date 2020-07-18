@@ -39,15 +39,18 @@ I'm working as a Front-end Developer at [CDEV Turkey](http://cdev.global)
 
 
 ## Know / Using 🧠
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/vue-9.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/vue-9.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/index.html"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
 
@@ -56,8 +59,8 @@ I'm working as a Front-end Developer at [CDEV Turkey](http://cdev.global)
 
 You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/keremvaris-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keremvaris/)
-[![Instagram Badge](https://img.shields.io/badge/keremvaris-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/kerem_varis/)
+[![Linkedin Badge](https://img.shields.io/badge/sfbdev-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sfbdev/)
+[![Instagram Badge](https://img.shields.io/badge/sfbdev-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/sfbdev/)
 
 ## Ask me about 💬
 
