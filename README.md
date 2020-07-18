@@ -51,7 +51,7 @@ I'm working as a Front-end Developer at [CDEV Turkey](http://cdev.global)
 You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/sfbdev-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sfbdev/)
-[![Twitter Badge](https://img.shields.io/badge/sfbdev-follow%20on%twitter-blue?style=for-the-badge&logo=twitter)](https://www.twitter.com/sfbdev/)
+[![Twitter Badge](https://img.shields.io/badge/sfbdev-FOLLOW%20ON%20TWITTER-blue?style=for-the-badge&logo=twitter)](https://www.twitter.com/sfbdev/)
 [![Instagram Badge](https://img.shields.io/badge/sfbdev-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/sfbdev/)
 
 ## Ask me about 💬
