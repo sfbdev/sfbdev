@@ -40,15 +40,15 @@ I'm working as a Front-end Developer at [CDEV Turkey](http://cdev.global)
 
 ## Know / Using 🧠
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="https://www.postgresql.org" target="_blank"><img height="50" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg"></a></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img height="50" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg"></code>
 <code><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/vue-9.svg"></code>
-<code><a href="/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></a></code>
-<code><a href="/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></a></code>
-<code><a href="/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg"></a></code>
-<code><a href="/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></a></code>
-<code><a href="/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg"></a></code>
-<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
 
 
