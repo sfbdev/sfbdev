@@ -40,8 +40,8 @@ I'm working as a Front-end Developer at [CDEV Turkey](http://cdev.global)
 
 ## Know / Using 🧠
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-<code><img height="50" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/vue-9.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
