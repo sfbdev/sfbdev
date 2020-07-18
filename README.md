@@ -41,10 +41,13 @@ I'm working as a Front-end Developer at [CDEV Turkey](http://cdev.global)
 ## Know / Using 🧠
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="https://www.postgresql.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
-<code><a href="https://www.elastic.co" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></a></code>
-<code><a href="https://www.gitlab.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
+<code><a href="https://www.postgresql.org" target="_blank"><img height="50" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg"></a></code>
+<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/vue-9.svg"></a></code>
+<code><a href="https://www.elastic.co" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></a></code>
+<code><a href="https://www.gitlab.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></a></code>
+<code><a href="https://www.gitlab.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg"></a></code>
+<code><a href="https://www.gitlab.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></a></code>
+<code><a href="https://www.gitlab.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 
 
