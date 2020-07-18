@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-Hi, I am Furkan and i am 23 years old. I graduated from Computer Technology and Information Systems at [Mersin University](http://www.mersin.edu.tr/) in 2018. <br/>
-After my graduated i went to Estonia for Erasmus+ Internship program for 3 months. <br/>
-I am professionally working on the Frontend Web Development by using HTML5, CSS3 and Javascript technologies. <br/>
-I worked as a Frontend Developer in [Alegra Digital](https://alegra.io) which are few well-known companies in Turkey. for 14 months (2018-2020). <br/>
-And now am working as a software developer at [CDEV Turkey](http://cdev.global) since January 2020. <br/>
+
 
 <!--
 **sfbdev/sfbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +18,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi! And welcome to my github. 👋
+
+
+My name is Furkan Bayram. I live in Istanbul. I graduated from Computer Technology and Information Systems at [Mersin University](http://www.mersin.edu.tr/) in 2018. <br/>
+After my graduated i went to Estonia for Erasmus+ Internship program for 3 months. <br/>
+I am professionally working on the Frontend Web Development by using HTML5, CSS3 and Javascript technologies. <br/>
+I worked as a Frontend Developer in [Alegra Digital](https://alegra.io) which are few well-known companies in Turkey. for 14 months (2018-2020). <br/>
+And now am working as a software developer at [CDEV Turkey](http://cdev.global) since January 2020. <br/>
+
+![Furkan GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfbdev&show_icons=true)
+
+## Job
+
+I'm working as a Front-end Developer at [CDEV Turkey](http://cdev.global)
+
+## I'm currently working on 🔭
+
+
+
+## Know / Using 🧠
+
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="https://www.postgresql.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
+<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
+<code><a href="https://www.elastic.co" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></a></code>
+<code><a href="https://www.gitlab.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
+<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+
+
+
+## Contact Me 📫
+
+You can find and get touch with me on these accounts!
+
+[![Linkedin Badge](https://img.shields.io/badge/keremvaris-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keremvaris/)
+[![Instagram Badge](https://img.shields.io/badge/keremvaris-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/kerem_varis/)
+
+## Ask me about 💬
+
+I'd like to get in touch with the following topics
+
+  - UI Design
+  - HTML, CSS, JavaScript
+  - Clean Code
+  
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sfbdev.visitor-badge)
+
