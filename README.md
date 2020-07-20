@@ -23,7 +23,9 @@ I am professionally working on the Frontend Web Development by using HTML5, CSS3
 I worked as a Frontend Developer in [Alegra Digital](https://alegra.io) which are few well-known companies in Turkey. for 14 months (2018-2020). <br/>
 And now am working as a software developer at [CDEV Turkey](http://cdev.global) since January 2020.</samp>
 
-<img src="https://media.giphy.com/media/KAq7hfwvKFZnoip8TO/giphy.gif"/>
+<div> 
+  <img src="https://media.giphy.com/media/KAq7hfwvKFZnoip8TO/giphy.gif" height="150px"/>
+  </div>
 
 ## Job
 
