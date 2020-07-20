@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Furkan Bayram. I live in Istanbul. I graduated from Computer Technology and Information Systems at [Mersin University](http://www.mersin.edu.tr/) in 2018. After my graduated i went to Estonia for Erasmus+ Internship program for 3 months. <br/>
+<samp>My name is Furkan Bayram. I live in Istanbul. I graduated from Computer Technology and Information Systems at [Mersin University](http://www.mersin.edu.tr/) in 2018. After my graduated i went to Estonia for Erasmus+ Internship program for 3 months. <br/>
 I am professionally working on the Frontend Web Development by using HTML5, CSS3 and Javascript technologies.
 I worked as a Frontend Developer in [Alegra Digital](https://alegra.io) which are few well-known companies in Turkey. for 14 months (2018-2020). <br/>
-And now am working as a software developer at [CDEV Turkey](http://cdev.global) since January 2020.
+And now am working as a software developer at [CDEV Turkey](http://cdev.global) since January 2020.</samp>
 
 <img src="https://media.giphy.com/media/KAq7hfwvKFZnoip8TO/giphy.gif"/>
 
