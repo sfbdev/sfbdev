@@ -18,23 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<samp>My name is Furkan Bayram. I live in Istanbul. I graduated from Computer Technology and Information Systems at [Mersin University](http://www.mersin.edu.tr/) in 2018. After my graduated i went to Estonia for Erasmus+ Internship program for 3 months. <br/>
-I am professionally working on the Frontend Web Development by using HTML5, CSS3 and Javascript technologies.
- 
-I worked as a Front-end Developer in Alegra Digital which are few well-known companies in Turkey. for 14 months (2018-2020).
-
-After Alegra Digital, I worked for a year at Canada-based CDEV Global, which provides software support to customers in Latin America. (2020-2021)
-
-Then I worked at kariyer.net for 8 months. Kariyer.net is the market-leading job site with Turkey’s largest candidate database. (2021-2021)
-
-And now I am working as a Front-end developer at KBOX Global since Jun 2021.</samp>
-
-
 
 
 ## Job
 
-I'm working as a Front-end Developer at [CDEV Turkey](http://cdev.global)
+I'm working as a Front-end Developer at [KBO Global](https://www.kboxglobal.com/)
 
 
 ## Know / Using 🧠
