@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Job
 
-I'm working as a Front-end Developer at [KBO Global](https://www.kboxglobal.com/)
+I'm working as a Front-end Developer at [KBOX Global](https://www.kboxglobal.com/)
 
 
 ## Know / Using 🧠
