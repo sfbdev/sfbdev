@@ -1,61 +1,20 @@
-### Hi there 💬
+<h1 align="center">Hi 👋, I'm Furkan</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
+- 🔭 I’m currently working on **KBOX Global**
 
-<!--
-**sfbdev/sfbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **UI design, css, javascript, vue, clean code**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **sefikfurkanbayram@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Vanilla JS, Vue JS and English
-- 💬 Ask me about Front-end
-- 🌱 I’m currently learning Vanilla JS, Vue JS and English
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Front-end
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/sfbdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sfbdev" height="30" width="40" /></a>
+<a href="https://twitter.com/sfbdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sfbdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sfbdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sfbdev" height="30" width="40" /></a>
+<a href="https://instagram.com/sfbdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sfbdev" height="30" width="40" /></a>
+</p>
 
-
-
-## Job
-
-I'm working as a Front-end Developer at [KBOX Global](https://www.kboxglobal.com/)
-
-
-## Know / Using 🧠
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/vue-9.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-
-
-
-## Contact Me 📫
-
-You can find and get touch with me on these accounts!
-
-[![Linkedin Badge](https://img.shields.io/badge/sfbdev-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sfbdev/)
-[![Twitter Badge](https://img.shields.io/badge/sfbdev-FOLLOW%20ON%20TWITTER-blue?style=for-the-badge&logo=twitter)](https://www.twitter.com/sfbdev/)
-[![Instagram Badge](https://img.shields.io/badge/sfbdev-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/sfbdev/)
-
-## Ask me about 💬
-
-I'd like to get in touch with the following topics
-
-  - UI Design
-  - HTML, CSS, JavaScript
-  - Clean Code
-  
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sfbdev.visitor-badge)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
