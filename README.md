@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **KBOX Global**
 
+- 🔫 Always looking for learn new things and love UI development.
+
 - 💬 Ask me about **UI design, css, javascript, vue, clean code**
 
 - 📫 How to reach me **sefikfurkanbayram@gmail.com**
