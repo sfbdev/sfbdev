@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **<a href="https://carrtell.co" target="blank">carrtell.co<a/>**
 
 - 🔫 Always looking for learn new things and love UI development.
 
