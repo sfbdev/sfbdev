@@ -1,5 +1,4 @@
-<h3 align="center">A frontend developer</h3>
-
+<h3>A frontend developer</h3>
 
 - 🔫 Always looking for learn new things and love UI development.
 
