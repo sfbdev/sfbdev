@@ -1,8 +1,7 @@
-<h3>A frontend developer</h3>
+<h3>A frontend engineer</h3>
 
-- 🔫 Always looking for learn new things and love UI development.
-
-- 📫 How to reach me **sefikfurkanbayram@gmail.com**
+- 🔫 Obsessed with clean UI.
+- 📫 Always learning. Always shipping. **sefikfurkanbayram@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
